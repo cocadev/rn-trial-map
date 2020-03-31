@@ -10,11 +10,18 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/viewpager": "^3.1.0",
     "react": "16.11.0",
     "react-native": "0.62.0",
     "react-native-actions-sheet": "^0.2.3",
+    "react-native-map-clustering": "^3.1.2",
     "react-native-maps": "^0.27.1",
-    "react-native-vector-icons": "^6.6.0"
+    "react-native-material-textfield": "^0.16.1",
+    "react-native-reanimated": "~1.4.0",
+    "react-native-screens": "2.0.0-alpha.12",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^4.2.2",
+    "react-navigation-stack": "^1.10.3"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
