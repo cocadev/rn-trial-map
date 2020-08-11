@@ -1,1 +1,1 @@
-# rn-trial-map
+# react-native-trial-map
